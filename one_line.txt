@@ -1,0 +1,4 @@
+1.Reverse-i-search in a Linux terminal allows us to search backward through command history using keywords.
+2.To list hidden directories using Linux command line, use the command: ls -a.
+3.I have intermediate experience in these.
+4.yes, I've used to set up web services like Apache, FTP, SMTP on servers to host web applications.
