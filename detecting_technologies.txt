@@ -1,0 +1,39 @@
+Technology: jQuery
+- Regex Pattern: (https?:\/\/[^\/]*jquery[^\/]*\.js)
+- Sample Website: http://jquery.com
+
+Technology: React.js
+ Regex Pattern: (https?:\/\/[^\/]*\.react[^\/]*\.js)
+ Sample Website: http://reactjs.org
+
+Technology: WooCommerce
+ Regex Pattern: woocommerce
+ Sample Website: https://woocommerce.com
+
+Technology: Bootstrap
+ Regex Pattern: (https?:\/\/[^\/]*bootstrap[^\/]*\.css)
+ Sample Website: https://getbootstrap.com
+
+Technology: Shopify
+ Regex Pattern: cdn\.shopify\.com
+ Sample Website: https://www.shopify.com
+
+Technology: Next.js
+ Regex Pattern: next\.js
+ Sample Website: https://nextjs.org
+
+Technology: Materialize CSS
+ Regex Pattern: (https?:\/\/[^\/]*materialize[^\/]*\.css)
+ Sample Website: http://materializecss.com
+
+Technology: PHP
+ Regex Pattern: php
+ Sample Website: https://www.php.net
+
+Technology: Python
+ Regex Pattern: python
+ Sample Website: https://www.python.org
+
+Technology: Google Maps
+ Regex Pattern: (https?:\/\/[^\/]*maps\.googleapis\.com[^\/]*)
+ Sample Website: https://developers.google.com/maps
